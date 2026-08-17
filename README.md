@@ -17,11 +17,6 @@ Search APIs, filter them by category, save your favorites, and quickly explore A
 - 🌙 **Dark Theme** — Developer-friendly dark interface
 - ⚡ **No Frameworks** — Built with vanilla HTML, CSS, and JavaScript
 
-## 🚀 Live Demo
-
-👉 **[View the Live Demo](https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/)**
-
-> Replace `YOUR_USERNAME` and `YOUR_REPO_NAME` with your GitHub username and repository name.
 
 ## 🛠️ Technologies
 
@@ -79,14 +74,6 @@ Use the copy button to quickly copy an API endpoint to your clipboard.
 public-api-directory/
 │
 ├── index.html          # Main application page
-├── style.css           # Application styles
-├── script.js           # Application logic
-├── data/
-│   └── apis.json       # API directory data
-├── assets/
-│   ├── images/
-│   └── icons/
-├── .gitignore
 └── README.md
 ```
 
@@ -103,7 +90,7 @@ You only need a modern web browser.
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git
+git clone https://github.com/hxrsh7d/api-directory.git
 ```
 
 ### Navigate to the Project
