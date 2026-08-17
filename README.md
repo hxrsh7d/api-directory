@@ -16,6 +16,11 @@ Search APIs, filter them by category, save your favorites, and quickly explore A
 - 📱 **Responsive Design** — Optimized for desktop, tablet, and mobile
 - 🌙 **Dark Theme** — Developer-friendly dark interface
 - ⚡ **No Frameworks** — Built with vanilla HTML, CSS, and JavaScript
+  
+
+## 🚀 Live Demo
+
+Visit the live website: (https://hxrsh7d.github.io/api-directory/)
 
 
 ## 🛠️ Technologies
@@ -75,6 +80,7 @@ public-api-directory/
 │
 ├── index.html          # Main application page
 └── README.md
+└── LICENSE
 ```
 
 > Adjust the structure above to match your actual project files.
@@ -214,8 +220,25 @@ It helps others discover the project and motivates further development.
 
 ## 📄 License
 
-This project is open source. Add your chosen license file, such as `MIT`, to the repository and update this section accordingly.
+MIT License
 
----
+Copyright (c) 2026 Harshad More
 
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
 **Built with ❤️ for developers who love APIs.**
